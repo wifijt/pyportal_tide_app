@@ -12,9 +12,6 @@ Copy the contents to the CIRCUITPY folder of your PyPortal
 
 NOTE: This uses a modified version of the adafruit_pyportal.py to allow me to update the feed location URL when the refresh feeds is called
 
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 ## Contributing
 
@@ -26,7 +23,7 @@ Version 1.0 4/19/2019
 
 ## Authors
 
-* **John Turner** - *Initial work* - [PurpleBooth](https://github.com/wifijt)
+* **John Turner** - *Initial work* - [wifijt](https://github.com/wifijt)
 
 
 ## License
