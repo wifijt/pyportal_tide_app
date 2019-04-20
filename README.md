@@ -7,6 +7,8 @@ PyPortal Tides app
 This was written for the Adafruit PyPortal - a little app to view the tide predicitons for your area. It uses the NOAA tides API
 You will need to update the STAION variable witn your own local tide predition station
 
+https://www.adafruit.com/product/4116
+
 ### Installing
 Copy the contents to the CIRCUITPY folder of your PyPortal
 
