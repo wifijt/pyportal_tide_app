@@ -650,10 +650,10 @@ class PyPortal:
                                           width, height,
                                           color_depth, image_url)
 
-    def fetch(self, refresh_url):
+    def fetch(self, refresh_url=None):
         """Fetch data from the url we initialized with, perfom any parsing,
         and display text or graphics. This function does pretty much everything
-        added the abiltiy to specify a URL to refresh from"""
+        added the abiltiy to specify a URL to pull new data"""
         if refresh_url:
             self._url = refresh_url
         json_out = None
